@@ -5,6 +5,11 @@ By clicking at the right time, you will gain about +25% XP/hour.
 
 **NOTE:** [WIP] This script was developed quickly and may not be 100% accurate yet. However, it has shown promising results so far.
 
+## Roadmap
+* Make sure it only plays a sound when actually at the safe.
+* we'll see :)
+
+---------------
 ## Installation
 1. Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 2. Install the required libraries using pip: `pip install pillow playsound pyautogui`
