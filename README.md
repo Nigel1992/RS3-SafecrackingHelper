@@ -7,7 +7,7 @@ SafeCracking Helper is a Python script that assists in cracking safes by monitor
 
 ## Usage
 1. **Preparation**: Ensure that the game is using the following settings: ![image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/61d3930f-8df4-4d29-9db7-b91cdf778b38)
-[image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/a2d6f391-51e9-42b5-a372-ebafe4230542)
+![image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/a2d6f391-51e9-42b5-a372-ebafe4230542)
 
 
 2. **Positioning**: When using the script, face north and look straight down in-game for accurate detection while cracking safes.
