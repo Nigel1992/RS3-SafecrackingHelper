@@ -6,10 +6,12 @@ SafeCracking Helper is a Python script that assists in cracking safes by monitor
 2. Install the required libraries using pip: pip install pillow playsound pyautogui
 
 ## Usage
-1. Clone this repository to your local machine or download the script directly.
-2. Navigate to the directory where the script is located.
-3. Run the script by executing the following command in your terminal or command prompt: python SafeCracking_Helper.py
-4. Once the script is running, move your mouse cursor around the screen. If the color around the cursor matches the specified color within the defined tolerance, a sound will be played.
+1. **Preparation**: Ensure that the game is in "highlight object mode" with the safe being highlighted in green color.
+2. **Positioning**: Before using the script, always face north and look straight down in-game for accurate detection.
+3. **Execution**: Clone this repository to your local machine or download the script directly.
+4. **Running the Script**: Navigate to the directory where the script is located and execute the following command in your terminal or command prompt: python SafeCracking_Helper.py
+5. **Detection**: Once the script is running, move your mouse cursor to the middle of the safe. If the color around the cursor matches the specified color within the defined tolerance, a sound will be played.
+
 
 ## Customization
 You can customize the behavior of the script by modifying the following variables:
