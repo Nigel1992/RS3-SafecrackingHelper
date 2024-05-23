@@ -1,5 +1,7 @@
-# SafeCracking Helper
-SafeCracking Helper is a Python script that assists in cracking safes by monitoring the area around the mouse cursor on your screen and playing a sound if it detects a specific color within a defined tolerance.
+# RS3 SafeCracking-Helper
+This is a Python script designed specifically for RuneScape 3.
+It assists in cracking safes by monitoring the area around the mouse cursor on your screen and playing a sound upon detecting a specific color within a defined tolerance.
+By clicking at the right time, you will gain about +25% XP/hour.
 
 ## Installation
 1. Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
@@ -10,9 +12,10 @@ SafeCracking Helper is a Python script that assists in cracking safes by monitor
 ![image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/a2d6f391-51e9-42b5-a372-ebafe4230542)
 
 
-2. **Positioning**: When using the script, face north and look straight down in-game for accurate detection while cracking safes.
-3. **Execution**: Clone this repository to your local machine or download the script directly.
-4. **Running the Script**: Navigate to the directory where the script is located and execute the following command in your terminal or command prompt: `python SafeCracking_Helper.py`
+
+2. **Execution**: Clone this repository to your local machine or download the script directly.
+3. **Running the Script**: Navigate to the directory where the script is located and execute the following command in your terminal or command prompt: `python SafeCracking_Helper.py`
+4. **Positioning**: When using the script, face north and look straight down in-game for accurate detection while cracking safes.
 5. **Detection**: Once the script is running, move your mouse cursor to the middle of the safe. If the color around the cursor matches the specified color within the defined tolerance, a sound will be played.
 
 
