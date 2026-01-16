@@ -1,3 +1,7 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
+
+> **Support this project* All donations go towards your chosen charity. You can pick any charity you'd like, and 5% is retained for Ko-Fi development costs. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
+
 # RS3 SafeCracking-Helper
 This is a Python script designed specifically for RuneScape 3.  
 It assists in cracking safes by monitoring the area around the mouse cursor on your screen and playing a sound upon detecting a specific color within a defined tolerance.  
