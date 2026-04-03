@@ -1,7 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-> **Support this project* All donations go towards your chosen charity. All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name can be added to the official donor list for this project on GitHub. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected! :). As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
-
 # RS3 SafeCracking-Helper
 This is a Python script designed specifically for RuneScape 3.  
 It assists in cracking safes by monitoring the area around the mouse cursor on your screen and playing a sound upon detecting a specific color within a defined tolerance.  
@@ -22,13 +20,10 @@ By clicking at the right time, you will gain about +25% XP/hour.
 1. **Preparation**: Ensure that the game is using the following settings: ![image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/61d3930f-8df4-4d29-9db7-b91cdf778b38)
 ![image](https://github.com/Nigel1992/RS3-SafecrackingHelper/assets/5491930/a2d6f391-51e9-42b5-a372-ebafe4230542)
 
-
-
 2. **Execution**: Clone this repository to your local machine or download the script directly.
 3. **Running the Script**: Navigate to the directory where the script is located and execute the following command in your terminal or command prompt: `python SafeCracking_Helper.py`
 4. **Positioning**: When using the script, face north and look straight down in-game for accurate detection while cracking safes.
 5. **Detection**: Once the script is running, move your mouse cursor to the middle of the safe. If the color around the cursor matches the specified color within the defined tolerance, a sound will be played.
-
 
 ## Customization
 You can customize the behavior of the script by modifying the following variables:
@@ -44,3 +39,7 @@ You can customize the behavior of the script by modifying the following variable
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support This Project
+
+Support this project! All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected!
