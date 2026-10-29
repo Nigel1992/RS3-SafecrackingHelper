@@ -4,6 +4,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
 # RS3 SafeCracking-Helper
+
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
 This is a Python script designed specifically for RuneScape 3.  
 It assists in cracking safes by monitoring the area around the mouse cursor on your screen and playing a sound upon detecting a specific color within a defined tolerance.  
 By clicking at the right time, you will gain about +25% XP/hour.
